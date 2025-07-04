@@ -1,5 +1,5 @@
 # Network Automation Lab
-
+                                                                     
 This lab simulates a remote automation environment using:
 
 - QEMU + Vagrant to run an Ubuntu ARM64 VM
